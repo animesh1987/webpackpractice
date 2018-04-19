@@ -1,1 +1,1 @@
-Webpack practive project.
+Webpack practice project.
